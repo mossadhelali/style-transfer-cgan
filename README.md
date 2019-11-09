@@ -12,14 +12,19 @@ More details about the method and design choices are provided in the [project re
 # Example Results
 Here, we show example results of our model getting results that better mimic the styles of the artists.
 - Picasso: 
-<img src='imgs/picasso.png'  align="center" width=400>
+<p align="center">
+<img src='imgs/picasso.png'  align="center" width=500>
+</p>
 
 - Da Vinci:
-<img src='imgs/davinci.png' align="center" width=400>
+<p align="center">
+<img src='imgs/davinci.png' align="center" width=500>
+</p>
 
 - Cezanne:
-<img src='imgs/cezanne.png' align="center" width=400>
-
+<p align="center">
+<img src='imgs/cezanne.png' align="center" width=500>
+</p>
 
 
 # Running The Project
